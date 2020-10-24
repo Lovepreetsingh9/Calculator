@@ -1,0 +1,115 @@
+
+#hed{
+    margin-top:14px;
+    
+}
+#heading{
+    position:absolute;
+    top:5%;
+    left:2.5%;
+/*     margin-top:px; */
+    
+    text-align:center;
+    font-size:25px;
+/* padding-toppx; */
+    
+    height:10%;
+    width:95%;
+    
+    background-color:black;
+    color:white;
+    
+}
+#resultout{   position:absolute;
+    top:18%;
+    left:2.5%;
+/*     z-index:3; */
+/*     left:5%; */
+    height:20%;
+    width:95%;
+    
+    background-color:white;
+
+    
+
+
+
+
+}
+#outcal{
+    height:500px;
+    width:460px;
+/*     background-color:lightgrey; */
+    position:absolute;
+    left:40%;
+    margin-top:100px;
+    border:1px solid lightgrey;
+    background-color:lightgrey;
+}
+#screen{
+/*     padding-top:30px; */
+    height:250px;
+    
+    width:100%;
+/*     background-color:lightgrey; */
+
+}
+#tablecal{
+    position:absolute;
+    margin-top:-35px;
+    
+    left:2%;  
+    height:70%;
+    width:400px;
+    
+    
+}
+
+
+.btn{font-size:30px;
+       margin-right:-20px;
+/*     margin-top:px; */
+    border-right:0;
+/*     border-left:0; */
+    border-top:0;
+    
+/*     margin:0; */
+    border-bottom:0;
+    outline:none;
+    background-color:white;
+    border-color:lightgrey;  
+    height:50px;
+width:121px;
+/* padding-right:10px; */
+/*     padding-left:-90px; */
+    
+    
+}
+td{
+    text-align:center;
+    
+}
+
+
+
+.cl{
+    background-color:red;
+    color:white;
+    
+}
+#zero{
+    width:225px;
+    
+}
+.btn:hover{
+    background-color:orange;
+}
+#result{
+font-size:30px;
+position:absolute;
+/*     left:70%; */
+/*     bottom:-10%; */
+    top:20%;
+    
+
+}
